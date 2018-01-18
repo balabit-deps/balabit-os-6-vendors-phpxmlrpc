@@ -1,0 +1,5 @@
+vendors-phpxmlrpc (4.3.0-1) balabit-os-6.0; urgency=low
+
+  * Initial release.
+
+ -- balazs.benedek <balazs.benedek@balabit.com>  Thu, 18 Jan 2018 08:47:03 +0100

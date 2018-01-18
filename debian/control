@@ -1,0 +1,11 @@
+Source: vendors-phpxmlrpc
+Maintainer: balazs.benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 4.3.0
+Homepage: https://github.com/gggeek/phpxmlrpc
+
+Package: vendors-phpxmlrpc
+Architecture: all
+Description: A php library for building xml-rpc clients and servers.
